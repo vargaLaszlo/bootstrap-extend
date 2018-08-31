@@ -8,7 +8,7 @@ Missing parts of Bootstrap 4.x
 
 Include bootstrpa-extend after bootstrap
 
-```css
+```scss
 @include './path-to-bootstrap/bootstrap';
 @include './path-to-bootstrap-extend/bootstrap-extend'
 
