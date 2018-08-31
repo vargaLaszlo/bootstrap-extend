@@ -1,5 +1,7 @@
 # Bootstrap Extend
 
+Missing parts of Bootstrap 4.x
+
 ## Components
 
 ### Vertical input group
