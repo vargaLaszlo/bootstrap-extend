@@ -2,6 +2,18 @@
 
 Missing parts of Bootstrap 4.x
 
+## Installation
+
+### SCSS
+
+Include bootstrpa-extend after bootstrap
+
+```css
+@include './path-to-bootstrap/bootstrap';
+@include './path-to-bootstrap-extend/bootstrap-extend'
+
+```
+
 ## Components
 
 ### Vertical input group
