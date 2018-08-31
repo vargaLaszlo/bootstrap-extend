@@ -13,6 +13,7 @@ Include **bootstrap-extend** after **bootstrap**:
 @include './path-to-bootstrap-extend/bootstrap-extend'
 
 ```
+Without bootstrap, the scss translator throws an error!
 
 ## Components
 
