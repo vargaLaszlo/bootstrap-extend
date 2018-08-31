@@ -6,7 +6,7 @@ Missing parts of Bootstrap 4.x
 
 ### SCSS
 
-Include bootstrpa-extend after bootstrap
+Include **bootstrap-extend** after **bootstrap**
 
 ```scss
 @include './path-to-bootstrap/bootstrap';
